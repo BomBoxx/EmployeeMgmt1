@@ -76,7 +76,7 @@ namespace EmployeeMgmt1
             DepCb.DataSource = Con.GetData(Query); 
 
         }
-        private void AddBtn_Click(object sender, EventArgs e)
+        private void AddBtn_Click(object sender, EventArgs e) 
         {
             try
             {
