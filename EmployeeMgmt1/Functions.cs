@@ -34,7 +34,7 @@ namespace EmployeeMgmt1
             int cnt = 0; 
             if(Con.State == ConnectionState.Closed) 
             {
-                Con.Open();
+                Con.Open(); 
             }
             Cmd.CommandText = Query;
             cnt = Cmd.ExecuteNonQuery();
