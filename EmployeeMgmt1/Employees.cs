@@ -113,7 +113,7 @@ namespace EmployeeMgmt1
         {
             try 
             {
-                if(key == 0)               
+                if(key == 0)                
                 {
                     MessageBox.Show("missing data!!!");
                 }
