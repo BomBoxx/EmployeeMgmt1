@@ -18,7 +18,7 @@ namespace EmployeeMgmt1
         public Functions() 
         {
             ConStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\USERS\ABDELRAHMAN\DOCUMENTS\EMPDB.MDF"";Integrated Security=True;Connect Timeout=30"; 
-            Con = new SqlConnection(ConStr);
+            Con = new SqlConnection(ConStr); 
             Cmd = new SqlCommand();
             Cmd.Connection = Con;
         }
