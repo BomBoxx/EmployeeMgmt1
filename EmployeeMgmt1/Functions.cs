@@ -38,7 +38,7 @@ namespace EmployeeMgmt1
             }
             Cmd.CommandText = Query; 
             cnt = Cmd.ExecuteNonQuery(); 
-            return cnt;
+            return cnt; 
         }
     }
 }
