@@ -131,7 +131,7 @@
             this.ResetLbl.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ResetLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ResetLbl.ForeColor = System.Drawing.Color.Teal;
-            this.ResetLbl.Location = new System.Drawing.Point(537, 411);
+            this.ResetLbl.Location = new System.Drawing.Point(537, 410);
             this.ResetLbl.Name = "ResetLbl";
             this.ResetLbl.Size = new System.Drawing.Size(62, 27);
             this.ResetLbl.TabIndex = 8;
