@@ -29,7 +29,7 @@ namespace EmployeeMgmt1
             }
             catch (Exception)  
             {
-                throw;
+                throw; 
             }
         }
 
