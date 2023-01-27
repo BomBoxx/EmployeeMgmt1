@@ -113,11 +113,11 @@ namespace EmployeeMgmt1
         {
             try 
             {
-                if(key == 0)                
+                if(key == 0)               
                 {
-                    MessageBox.Show("missing data!!!"); 
+                    MessageBox.Show("missing data!!!");
                 }
-                else
+                else 
                 {
                     string Name = EmpNameTb.Text;
                     string Gender = GenCb.SelectedItem.ToString();
