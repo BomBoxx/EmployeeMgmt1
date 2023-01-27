@@ -75,7 +75,7 @@
             // UNameTb
             // 
             this.UNameTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UNameTb.Location = new System.Drawing.Point(381, 170);
+            this.UNameTb.Location = new System.Drawing.Point(382, 170);
             this.UNameTb.Name = "UNameTb";
             this.UNameTb.Size = new System.Drawing.Size(369, 30);
             this.UNameTb.TabIndex = 3;
