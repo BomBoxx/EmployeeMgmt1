@@ -31,7 +31,7 @@ namespace EmployeeMgmt1
         }
         public int SetData(String Query)  
         {
-            int cnt = 0;
+            int cnt = 0; 
             if(Con.State == ConnectionState.Closed)
             {
                 Con.Open();
